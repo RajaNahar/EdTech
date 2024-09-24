@@ -19,7 +19,7 @@ const Founder = () => (
       <Text opacity={0.7}>Founder</Text>
     </VStack>
     <VStack justifyContent={'center'} alignItems={['center','flex-start']}>
-    <Heading size={['md', 'xl']}>Ram Krishna</Heading>
+    <Heading size={['md', 'xl']}>Raja Nahar</Heading>
     </VStack>
   </Stack>
 );
